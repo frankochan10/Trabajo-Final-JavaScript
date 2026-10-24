@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Teclado Mecánico Hyperx Alloy Fps Pro",
+    "categoria": "perifericos",
+    "precio": 45000,
+    "imagen": "./assets/teclado.jpg",
+    "descripcion": "Switches Blue, retroiluminación configurable."
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Gamer Logitech G PRO X Superlight",
+    "categoria": "perifericos",
+    "precio": 32000,
+    "imagen": "./assets/mouse.jpg",
+    "descripcion": "Sensor HERO 2, ultra liviano."
+  },
+  {
+    "id": 3,
+    "nombre": "Monitor BenQ Zowie XL2546K",
+    "categoria": "monitores",
+    "precio": 185000,
+    "imagen": "./assets/monitor.jpg",
+    "descripcion": "monitor 24.5 pulgadas, 240Hz, 0.5ms, DyAc+."
+  },
+  {
+    "id": 4,
+    "nombre": "Auriculares HyperX Cloud 2",
+    "categoria": "audio",
+    "precio": 58000,
+    "imagen": "./assets/auriculares.jpg",
+    "descripcion": "Sonido envolvente 7.1 con micrófono desmontable."
+  },
+  {
+    "id": 5,
+    "nombre": "Silla Gamer Ergonómica",
+    "categoria": "muebles",
+    "precio": 210000,
+    "imagen": "./assets/silla.jpg",
+    "descripcion": "Almohadillas lumbares y reclinable hasta 180°."
+  },
+  {
+    "id": 6,
+    "nombre": "Micrófono Hyperx Solocast",
+    "categoria": "audio",
+    "precio": 65000,
+    "imagen": "./assets/microfono.jpg",
+    "descripcion": "Patrón polar cardioide con soporte anti-vibración."
+  }
+]
